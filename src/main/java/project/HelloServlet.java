@@ -27,7 +27,7 @@ public class HelloServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 //		response.getWriter().append("Served at: ").append(request.getContextPath());
 		
-		response.getWriter().print(" you are request ea say hi ");
+		response.getWriter().print(" you are request ea say hi , do you want to try ea say hi");
 	}
 
 	/**
